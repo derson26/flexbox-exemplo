@@ -67,7 +67,24 @@ main .child{
     height: 400px;
     width: 400px;
     border: 1px solid;
-    background-color: blueviolet;
+    background-color: rgba(157, 147, 177,0.5);
     margin: 2px;
     box-sizing: border-box;
+}
+
+footer {
+    display: flex;
+    box-sizing: border-box;
+    padding: 2em;
+    justify-content: center;
+}
+
+footer ul{
+    /* display: flex; */
+    border:1px red solid;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    min-width: 50%;
+
 }
