@@ -56,8 +56,6 @@ body{
   scrollbar-width: none;  /* Firefox */
 }
 
-
-
 main .child{
     height: 400px;
     width: 400px;
