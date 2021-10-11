@@ -56,12 +56,7 @@ body{
   scrollbar-width: none;  /* Firefox */
 }
 
-footer{
-    border: 1px solid;
-    width: 100vw;
-    text-align: center;
-    
-}
+
 
 main .child{
     height: 400px;
@@ -72,11 +67,15 @@ main .child{
     box-sizing: border-box;
 }
 
+
 footer {
     display: flex;
     box-sizing: border-box;
     padding: 2em;
     justify-content: center;
+    border: 1px solid;
+    width: 100vw;
+    text-align: center;
 }
 
 footer ul{
