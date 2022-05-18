@@ -1,6 +1,5 @@
-#Flexbox with flex-wrap
+#Responsive Flexbox 
 
-- How to use flex-wrap
 - display: flex
 - flex-wrap: wrap;
 - justify-content: space-around;
